@@ -1,10 +1,10 @@
-# 🎓 Escape The Matrix - Learning Management System
+# Escape The Matrix - Learning Management System
 
 > A comprehensive, full-stack Learning Management System (LMS) with role-based access control, course management, and a complete assessment system featuring assignments, quizzes, and discussions.
 
 <div align="center">
 
-🌐 **[Live Application](https://escape-the-matrix-id9n.vercel.app/)** | 📂 **[Repository](https://github.com/niiazmorshed/Escape-The-Matrix)** | 👤 **[Developer](https://github.com/niiazmorshed)**
+**[Live Application](https://escape-the-matrix-id9n.vercel.app/)** | **[Repository](https://github.com/niiazmorshed/Escape-The-Matrix)** | **[Developer](https://github.com/niiazmorshed)**
 
 </div>
 
@@ -19,87 +19,87 @@
 
 </div>
 
-## 🧪 Testing Credentials
+## Testing Credentials
 
 <div align="center">
 
-### 🎯 Quick Start - Use These Accounts to Test the Platform
+### Quick Start - Use These Accounts to Test the Platform
 
 </div>
 
-| Role           | Email                       | Password | Access Level                   |
-| -------------- | --------------------------- | -------- | ------------------------------ |
-| 👨‍💼 **Admin**   | `niaz@gmail.com`            | `1234Aa` | Full platform access           |
-| 👨‍🏫 **Teacher** | `erwin.smith4733@gmail.com` | `1234Aa` | Course & assessment management |
-| 🎓 **Student** | `levi@gmail.com`            | `1234Aa` | Enroll & complete courses      |
+| Role        | Email                       | Password | Access Level                   |
+| ----------- | --------------------------- | -------- | ------------------------------ |
+| **Admin**   | `niaz@gmail.com`            | `1234Aa` | Full platform access           |
+| **Teacher** | `erwin.smith4733@gmail.com` | `1234Aa` | Course & assessment management |
+| **Student** | `levi@gmail.com`            | `1234Aa` | Enroll & complete courses      |
 
 <details>
-<summary><b>📖 Click to see detailed capabilities for each role</b></summary>
+<summary><b>Click to see detailed capabilities for each role</b></summary>
 
-### 👨‍💼 Admin Account
+### Admin Account
 
 **Email:** `niaz@gmail.com` | **Password:** `1234Aa`
 
 **Capabilities:**
 
-- ✅ Approve/reject teacher requests
-- ✅ Approve/reject course submissions
-- ✅ View and manage all users
-- ✅ Access platform-wide analytics
-- ✅ Full system control
+- Approve/reject teacher requests
+- Approve/reject course submissions
+- View and manage all users
+- Access platform-wide analytics
+- Full system control
 
-### 👨‍🏫 Teacher Account
+### Teacher Account
 
 **Email:** `erwin.smith4733@gmail.com` | **Password:** `1234Aa`
 
 **Capabilities:**
 
-- ✅ Create and manage courses
-- ✅ Create assessments (assignments, quizzes, discussions)
-- ✅ View student submissions
-- ✅ Grade student work
-- ✅ Track class analytics
+- Create and manage courses
+- Create assessments (assignments, quizzes, discussions)
+- View student submissions
+- Grade student work
+- Track class analytics
 
-### 🎓 Student Account
+### Student Account
 
 **Email:** `levi@gmail.com` | **Password:** `1234Aa`
 
 **Capabilities:**
 
-- ✅ Enroll in courses
-- ✅ View and complete assessments
-- ✅ Submit assignments and take quizzes
-- ✅ View grades and feedback
-- ✅ Track personal progress
+- Enroll in courses
+- View and complete assessments
+- Submit assignments and take quizzes
+- View grades and feedback
+- Track personal progress
 
 </details>
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-- [About](#-about)
-- [Key Features](#-key-features)
-- [User Roles & Workflows](#-user-roles--workflows)
-- [Assessment System](#-assessment-system)
-- [Project Structure](#-project-structure)
-- [Installation & Setup](#-installation--setup)
-- [Environment Variables](#-environment-variables)
-- [Contributing](#-contributing)
+- [About](#about)
+- [Key Features](#key-features)
+- [User Roles & Workflows](#user-roles--workflows)
+- [Assessment System](#assessment-system)
+- [Project Structure](#project-structure)
+- [Installation & Setup](#installation--setup)
+- [Environment Variables](#environment-variables)
+- [Contributing](#contributing)
 
 ---
 
-## 🌟 About
+## About
 
 **Escape The Matrix** is a modern Learning Management System built with the MERN stack (MongoDB, Express.js, React, Node.js) that revolutionizes online education. The platform provides a complete ecosystem where administrators manage the system, teachers create and deliver courses, and students engage in interactive learning through assignments, quizzes, and discussions.
 
-### ⚡ Quick Summary
+### Quick Summary
 
 A production-ready LMS featuring role-based authentication (Admin/Teacher/Student), comprehensive course management, automated quiz grading, file-based assignment submissions, and real-time progress tracking. Built with React 18, Vite, Tailwind CSS, Firebase Authentication, and deployed on Vercel for optimal performance.
 
-**🔗 Live Site:** [https://escape-the-matrix-id9n.vercel.app/](https://escape-the-matrix-id9n.vercel.app/)
+**Live Site:** [https://escape-the-matrix-id9n.vercel.app/](https://escape-the-matrix-id9n.vercel.app/)
 
-### 🎯 Core Capabilities
+### Core Capabilities
 
 - **Multi-Role System**: Admin, Teacher, and Student roles with distinct permissions
 - **Course Management**: Create, publish, and manage courses with rich content
@@ -111,9 +111,9 @@ A production-ready LMS featuring role-based authentication (Admin/Teacher/Studen
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 👨‍💼 For Administrators
+### For Administrators
 
 - **User Management**
 
@@ -135,7 +135,7 @@ A production-ready LMS featuring role-based authentication (Admin/Teacher/Studen
   - Manage platform policies
   - Access comprehensive analytics
 
-### 👨‍🏫 For Teachers
+### For Teachers
 
 - **Course Creation**
 
@@ -167,7 +167,7 @@ A production-ready LMS featuring role-based authentication (Admin/Teacher/Studen
   - Identify struggling students early
   - Export grading reports
 
-### 🎓 For Students
+### For Students
 
 - **Course Discovery & Enrollment**
 
@@ -199,9 +199,9 @@ A production-ready LMS featuring role-based authentication (Admin/Teacher/Studen
   - Sort by due date or status
   - Statistics cards showing total, completed, and pending work
 
-## 👥 User Roles & Workflows
+## User Roles & Workflows
 
-### 🔄 Complete User Journey
+### Complete User Journey
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -231,14 +231,14 @@ A production-ready LMS featuring role-based authentication (Admin/Teacher/Studen
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### 1️⃣ Student Workflow
+### Student Workflow
 
 ```bash
 Login → Browse Courses → Enroll → Continue Course → View Assessments
 → Submit Work → Receive Grades → View Feedback
 ```
 
-### 2️⃣ Teacher Workflow
+### Teacher Workflow
 
 ```bash
 Request Teacher Role → Admin Approval → Create Course → Admin Approval
@@ -246,7 +246,7 @@ Request Teacher Role → Admin Approval → Create Course → Admin Approval
 → Grade Work → Provide Feedback
 ```
 
-### 3️⃣ Admin Workflow
+### Admin Workflow
 
 ```bash
 Login → Review Teacher Requests → Approve/Reject Teachers
@@ -256,11 +256,11 @@ Login → Review Teacher Requests → Approve/Reject Teachers
 
 ---
 
-## 📚 Assessment System
+## Assessment System
 
 The platform features a comprehensive assessment system with three distinct types:
 
-### 📝 Assignments
+### Assignments
 
 - **Features**:
   - Text submission support
@@ -271,7 +271,7 @@ The platform features a comprehensive assessment system with three distinct type
 - **Student View**: Upload files, write text submissions, track status
 - **Teacher View**: Download submissions, provide grades (0-100), write feedback
 
-### 🧠 Quizzes
+### Quizzes
 
 - **Question Types**:
   - Multiple Choice Questions (MCQ)
@@ -289,7 +289,7 @@ The platform features a comprehensive assessment system with three distinct type
   - True/False: Exact match
   - Short Answer: Case-insensitive, trimmed comparison
 
-### 💬 Discussions
+### Discussions
 
 - **Features**:
   - Discussion prompts from teachers
@@ -299,7 +299,7 @@ The platform features a comprehensive assessment system with three distinct type
   - Minimum response count enforcement
 - **Use Cases**: Topic debates, peer learning, case studies, reflection posts
 
-### 📊 Assessment Statistics
+### Assessment Statistics
 
 Teachers can view:
 
@@ -311,7 +311,7 @@ Teachers can view:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Escape_the_Matrix/
@@ -376,7 +376,7 @@ Escape_the_Matrix/
 └── README.md                          # This file
 ```
 
-### 📂 Key Directories
+### Key Directories
 
 - **`/src/Hooks`**: Custom React hooks for data fetching and authentication
 - **`/src/Pages/Dashboard`**: Role-specific dashboard pages
@@ -386,7 +386,7 @@ Escape_the_Matrix/
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
@@ -493,7 +493,7 @@ npm run dev
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 ### Frontend (.env in `Escape_the_Matrix_Client/`)
 
@@ -517,7 +517,7 @@ npm run dev
 | `PORT`                | Server port         | `5000`                   |
 | `DEFAULT_ADMIN_EMAIL` | Default admin email | `admin@example.com`      |
 
-## 🗄️ Database Collections
+## Database Collections
 
 ### MongoDB Collections in `EscapeTheMatrix` Database
 
@@ -550,7 +550,7 @@ npm run dev
    - Stores student submissions
    - Fields: student info, file URL, answers, grade, feedback
 
-## 🔧 Development
+## Development
 
 ### Run Linter
 
@@ -573,7 +573,7 @@ npm run build
 npm run preview
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -622,13 +622,13 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/niiazmorshed/Escape-The-Matrix/blob/main/LICENSE) file for details.
 
 ---
 
-## 👥 Authors & Acknowledgments
+## Authors & Acknowledgments
 
 ### Developer
 
@@ -652,7 +652,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ---
 
-## 📞 Support & Contact
+## Support & Contact
 
 For support, questions, or feature requests:
 
@@ -662,30 +662,30 @@ For support, questions, or feature requests:
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
-- ✨ **Modern Tech Stack**: Built with latest React 18, Vite, and MongoDB
-- 🎨 **Beautiful UI**: Responsive design with Tailwind CSS and DaisyUI
-- 🔐 **Secure**: JWT authentication with role-based access control
-- ⚡ **Fast**: Vite build tool for lightning-fast development
-- 📱 **Responsive**: Mobile-first approach works on all devices
-- 🎓 **Feature-Rich**: Complete LMS with assessments and grading
-- 🚀 **Production-Ready**: Deployed and live at [escape-the-matrix-id9n.vercel.app](https://escape-the-matrix-id9n.vercel.app/)
-- 📚 **Well-Documented**: Comprehensive documentation (3000+ lines)
+- **Modern Tech Stack**: Built with latest React 18, Vite, and MongoDB
+- **Beautiful UI**: Responsive design with Tailwind CSS and DaisyUI
+- **Secure**: JWT authentication with role-based access control
+- **Fast**: Vite build tool for lightning-fast development
+- **Responsive**: Mobile-first approach works on all devices
+- **Feature-Rich**: Complete LMS with assessments and grading
+- **Production-Ready**: Deployed and live at [escape-the-matrix-id9n.vercel.app](https://escape-the-matrix-id9n.vercel.app/)
+- **Well-Documented**: Comprehensive documentation (3000+ lines)
 
 ---
 
 <div align="center">
 
-**Escape The Matrix** - Empowering education through technology 🎓✨
+**Escape The Matrix** - Empowering education through technology
 
-Made with ❤️ by [Niaz Morshed](https://github.com/niiazmorshed)
+Made with dedication by [Niaz Morshed](https://github.com/niiazmorshed)
 
 Built using the MERN Stack
 
 ---
 
-### 🌐 Connect & Explore
+### Connect & Explore
 
 [![Live Demo](https://img.shields.io/badge/Live-View_Application-success?style=for-the-badge&logo=vercel)](https://escape-the-matrix-id9n.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-niiazmorshed-181717?style=for-the-badge&logo=github)](https://github.com/niiazmorshed)
@@ -693,8 +693,8 @@ Built using the MERN Stack
 
 ---
 
-⭐ **If you find this project helpful, please give it a star!** ⭐
+**If you find this project helpful, please give it a star!**
 
-[⬆ Back to Top](#-escape-the-matrix---learning-management-system)
+[Back to Top](#escape-the-matrix---learning-management-system)
 
 </div>
