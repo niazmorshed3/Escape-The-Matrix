@@ -2,23 +2,6 @@
 
 > A comprehensive, full-stack Learning Management System (LMS) with role-based access control, course management, and a complete assessment system featuring assignments, quizzes, and discussions.
 
-<div align="center">
-
-**[Live Application](https://escape-the-matrix-id9n.vercel.app/)** | **[Repository](https://github.com/niiazmorshed/Escape-The-Matrix)** | **[Developer](https://github.com/niiazmorshed)**
-
-</div>
-
-<div align="center">
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-</div>
-
 ## Testing Credentials
 
 <div align="center">
@@ -698,3 +681,4 @@ Built using the MERN Stack
 [Back to Top](#escape-the-matrix---learning-management-system)
 
 </div>
+
